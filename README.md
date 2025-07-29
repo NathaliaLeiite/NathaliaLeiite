@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nathalia Helen, I'm a computer technician from IF Baiano and currently studying Computer Science at the Federal University of Goiás (UFG). I'm passionate about programming, problem-solving, and front-end development.</p>
+<p align="left">My name is Nathalia Helen, i'm a computer technician from IF Baiano and currently studying Computer Science at the Federal University of Goiás (UFG). I'm passionate about programming, problem-solving, and front-end development.</p>
 
 ###
 
