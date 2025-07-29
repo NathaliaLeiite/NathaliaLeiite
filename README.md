@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ In technology since 2022<br>📚 Currently studying C and C++ languages, and developing problem-solving skills..<br>🎯 become a versatile professional, capable of helping other people through what I develop<br>🎲 Fun fact: ...</p>
+<p align="left">✨ In technology since 2022.<br>📚 Currently studying C and C++ languages, and developing problem-solving skills.<br>🎯 become a versatile professional, capable of helping other people through what I develop.</p>
 
 ###
 
